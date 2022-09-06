@@ -7,12 +7,8 @@
         "id": "e27226a2432b3f0f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "PSYC 317 - Terminology.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYC 317 - Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYC 317 - Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PSYC 317 - Terminology.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,9 +122,11 @@
   },
   "active": "e27226a2432b3f0f",
   "lastOpenFiles": [
+    "2022-09-06.md",
+    "PSYC 317.md",
+    "Untitled.md",
+    "SOWK 389.md",
     "Pasted image 20220906110042.png",
-    "Pasted image 20220906110112.png",
-    "PSYC 317 - Terminology.md",
-    "2022-09-06.md"
+    "Pasted image 20220906110112.png"
   ]
 }
