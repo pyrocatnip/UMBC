@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Terminology.md",
+            "file": "PSYC 317 - Terminology.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Terminology.md",
+                "file": "PSYC 317 - Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Terminology.md",
+                "file": "PSYC 317 - Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Terminology.md"
+                "file": "PSYC 317 - Terminology.md"
               }
             }
           }
@@ -128,9 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e27226a2432b3f0f",
+  "active": "4c99ba6436e88368",
   "lastOpenFiles": [
     "2022-09-06.md",
-    "Terminology.md"
+    "PSYC 317 - Terminology.md"
   ]
 }
