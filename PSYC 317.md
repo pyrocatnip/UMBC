@@ -17,7 +17,24 @@
 - **Feature detectors**: Neurons that respond to specific stimulus features such as orientation, movement, and length
 - **Experience-dependent plasticity**: The idea that certain parts of the brain are responsible for specific functions.
 - **Visual cortex**: The part of the brain that is responsible for vision.
-- **Temporal lobe**:
+- **Hierarchical processing**: The progression from lower to higher functioning.
+- **Sensory coding**: How neurons represent various characteristics of the environment.
+- **Specificity coding**: The idea that an object could be represented by the firing of a specialized neuron that responds only to that object.
+- **Population coding**: The representation of a particular object by the pattern of firing multiple large neurons.
+- **Sparse coding**: Occurs when a particular object is represented by a pattern of firing of firing only a small group of neurons with the majority of neurons remaining silent.
+- **Localization of function**: Specific functions are performed by specific areas of the brain.
+- **Neuropsychology**: The study of people with brain damage.
+- **Broca's area**: The region of the frontal lobe responsible for the creation of language.
+- **Wernicke's area**: The region of the frontal lobe responsible for the comprehension of language.
+- **Broca's aphasia**: A condition caused by a stroke causing a difficulty with speech, slurred and ungrammatical speech.
+- **Cortical equipotentiality**: The idea that the brain is operated as an indivisible whole.
+- **Wernicke's aphasia**: A condition caused by a stroke affectin the Wernicke's area. Causes fluent speech that is incoherent.
+- **Occipital lobe**: The part of the brain where the occipital lobe is.
+- **Parietal lobe**: The part of the brain that is responible for perceptions of touch such as pain and pressure.
+- **Frontal lobe**: The part of the brain responible for recieving signals form all of senses and is responsible for coordinating senses, as well higher cognitive functions such as thinking and problem solving.
+- **Prosopagnosia**: The inability to recognize faces.
+- **Double dissasciation**: Occurs if damage to one area of the brain causes function A to be absent while function b is present, and vice versa. 
+- **Brain imaging**: Techniques to create a view of brain function
 
 <table style="background: #0c0c0c; color: #FFF; font-size: 12.5px; height: 200px; width: 100%; border: 1px solid #A2A9B1; padding: 0.15em">
 	<tbody>
