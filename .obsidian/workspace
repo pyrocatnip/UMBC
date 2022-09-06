@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "PSYC 317 - Terminology.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -128,9 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4c99ba6436e88368",
+  "active": "e27226a2432b3f0f",
   "lastOpenFiles": [
-    "2022-09-06.md",
-    "PSYC 317 - Terminology.md"
+    "Pasted image 20220906110042.png",
+    "Pasted image 20220906110112.png",
+    "PSYC 317 - Terminology.md",
+    "2022-09-06.md"
   ]
 }
