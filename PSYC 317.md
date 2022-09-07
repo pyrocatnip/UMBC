@@ -11,14 +11,7 @@
 ### Concepts
 * <span style="color: #FDB515; font-weight: bold">Cognitive Neuroscience</span>: The study of the phsyological basis of cognition.
 - <span style="color: #FDB515; font-weight: bold">Principle of neurorepresentation</span>: States that everything a person experience is based on reprsentations.
-
 - <span style="color: #FDB515; font-weight: bold">Levels of analysis</span>: Refers to the idea tat the topic can be studied in a number of different ways, with each approach contributing to its own dimension to our understanding.
-- <span style="color: #FDB515; font-weight: bold">Synapse</span> The small gap between the end of a neuron's axon and the dendrite or cell body of another neuron. 
-- <span style="color: #FDB515; font-weight: bold">Resting potential</span>: The value that stays the same when there are no signals in the neurons
-- <span style="color: #FDB515; font-weight: bold">Action potention</span>: 
-- <span style="color: #FDB515; font-weight: bold">Neurotransmitter</span>: A chemical that makes it possible for signals to be transmitted across the synaptic gap to a dendire or to the cell body of another neuron.
-- <span style="color: #FDB515; font-weight: bold">Nerve impulse</span>: Transmitted down the axon. As the impulse passes the recording electrode, the charge inside the axon rises to +40 million volts, compared to the outside.
-- <span style="color: #FDB515; font-weight: bold">Feature detectors</span>: Neurons that respond to specific stimulus features such as orientation, movement, and length
 -  <span style="color: #FDB515; font-weight: bold">Neuropsychology</span>:" The study of people with brain damage.
 
 ### Biological terminology
@@ -43,7 +36,13 @@
 - <span style="color: #FDB515; font-weight: bold">Voxel</span>: Small, cube-shaped areas of the brain responsible for percieving things such as images.
 - <span style="color: #FDB515; font-weight: bold">Parahippocampal place area (PPA)</span>: The part of the brain that is responsible for perception of indoor / outdoor places.
 - **<span style="color: #FDB515; font-weight: bold">Extrastriate body area (EBA)</span>: Area of the brain responsible for recongizing people, except for faces.
-- <span style="color: #FDB515; font-weight: bold">Multidimensional</span>: 
+- <span style="color: #FDB515; font-weight: bold">Synapse</span> The small gap between the end of a neuron's axon and the dendrite or cell body of another neuron. 
+- <span style="color: #FDB515; font-weight: bold">Resting potential</span>: The value that stays the same when there are no signals in the neurons
+- <span style="color: #FDB515; font-weight: bold">Action potention</span>: 
+- <span style="color: #FDB515; font-weight: bold">Neurotransmitter</span>: A chemical that makes it possible for signals to be transmitted across the synaptic gap to a dendire or to the cell body of another neuron.
+- <span style="color: #FDB515; font-weight: bold">Nerve impulse</span>: Transmitted down the axon. As the impulse passes the recording electrode, the charge inside the axon rises to +40 million volts, compared to the outside.
+- <span style="color: #FDB515; font-weight: bold">Feature detectors</span>: Neurons that respond to specific stimulus features such as orientation, movement, and length
+- <span style="color: #FDB515; font-weight: bold">Multidimensional</span>: The central principle of cognition that our experiences are complex
 
 ### Functions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Cortical equipotentiality</span>: The idea that the brain is operated as an indivisible whole.
@@ -53,6 +52,8 @@
 - <span style="color: #FDB515; font-weight: bold">Sensory coding</spam>: How neurons represent various characteristics of the environment.
 - <span style="color: #FDB515; font-weight: bold">Specificity coding</span>: The idea that an object could be represented by the firing of a specialized neuron that responds only to that object.
 - <span style="color: #FDB515; font-weight: bold">Population coding</span>: The representation of a particular object by the pattern of firing multiple large neurons.
+- <span style="color: #FDB515; font-weight: bold">Neural networks</span>: The interconnected areas of the brain.
+- <span style="color: #FDB515; font-weight: bold">Structural connectivity</span>: The brain's wiring diagram created by nerve axons that connect different brain areas.
 
 ### Conditions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Wernicke's area</span>: The region of the frontal lobe responsible for the comprehension of language.
