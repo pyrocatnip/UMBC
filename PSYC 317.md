@@ -1,11 +1,7 @@
 # Key
-<div style="display: inline-block">
-	<div style="white-space: nowrap">
-		<div style="display: inline-block; width: 1.25em; height: 1.25em; background: #FDB515; border: 1px solid #A2A9B1">&nbsp;</div>
-		<div style="margin-left: 0.5em; display: inline-block; font-weight: bold">Definition</div>
-	</div>
-	<div style="margin-top: 0.5em; white-space: nowrap">
-		<div style="display: inline-block; width: 1.25em; height: 1.25em; background: #FDB515; border: 1px solid #A2A9B1">&nbsp;</div>
+<div style="display: inline-block; vertical-align: top">
+	<div style="white-space: nowrap; vertical-align: top">
+		<div style="display: inline-block; width: 1.25em; height: 1.25em; background: #FDB515; border: 1px solid #A2A9B1;">&nbsp;</div>
 		<div style="margin-left: 0.5em; display: inline-block; font-weight: bold">Definition</div>
 	</div>
 </div>
@@ -17,13 +13,13 @@
 - <span style="color: #FDB515; font-weight: bold">Principle of neurorepresentation</span>: States that everything a person experience is based on reprsentations.
 
 - <span style="color: #FDB515; font-weight: bold">Levels of analysis</span>: Refers to the idea tat the topic can be studied in a number of different ways, with each approach contributing to its own dimension to our understanding.
-- **Synapse**: The small gap between the end of a neuron's axon and the dendrite or cell body of another neuron. 
-- **Resting potential**: The value that stays the same when there are no signals in the neurons
-- **Action potention**: 
-- **Neurotransmitter**: A chemical that makes it possible for signals to be transmitted across the synaptic gap to a dendire or to the cell body of another neuron.
-- **Nerve impulse**: Transmitted down the axon. As the impulse passes the recording electrode, the charge inside the axon rises to +40 million volts, compared to the outside.
-- **Feature detectors**: Neurons that respond to specific stimulus features such as orientation, movement, and length
--  **Neuropsychology**: The study of people with brain damage.
+- <span style="color: #FDB515; font-weight: bold">Synapse</span> The small gap between the end of a neuron's axon and the dendrite or cell body of another neuron. 
+- <span style="color: #FDB515; font-weight: bold">Resting potential</span>: The value that stays the same when there are no signals in the neurons
+- <span style="color: #FDB515; font-weight: bold">Action potention</span>: 
+- <span style="color: #FDB515; font-weight: bold">Neurotransmitter</span>: A chemical that makes it possible for signals to be transmitted across the synaptic gap to a dendire or to the cell body of another neuron.
+- <span style="color: #FDB515; font-weight: bold">Nerve impulse</span>: Transmitted down the axon. As the impulse passes the recording electrode, the charge inside the axon rises to +40 million volts, compared to the outside.
+- <span style="color: #FDB515; font-weight: bold">Feature detectors</span>: Neurons that respond to specific stimulus features such as orientation, movement, and length
+-  <span style="color: #FDB515; font-weight: bold">Neuropsychology</span>:" The study of people with brain damage.
 
 ### Biological terminology
 #### Parts of the Brain ####
@@ -33,21 +29,21 @@
 - <span style="color: #FDB515; font-weight: bold">Dendrites</span>: Cells that branch out from the cell body in order to recieve signals.
 - <span style="color: #FDB515; font-weight: bold">Axon / Nerve fibers</span>: Long processes that send signals to other neurons.
 - <span style="color: #FDB515; font-weight: bold">Nerve net</span>: A network of a continious, highway-like system connecting neurons together.
-- **Occipital lobe**: The part of the brain where the occipital lobe is.
-- **Parietal lobe**: The part of the brain that is responible for perceptions of touch such as pain and pressure.
-- **Frontal lobe**: The part of the brain responible for recieving signals form all of senses and is responsible for coordinating senses, as well higher cognitive functions such as thinking and problem solving.
-- **Visual cortex**: The part of the brain that is responsible for vision.
-- **Broca's area**: The region of the frontal lobe responsible for the creation of language.
-- **Sparse coding**: Occurs when a particular object is represented by a pattern of firing of firing only a small group of neurons with the majority of neurons remaining silent.
-- **Localization of function**: Specific functions are performed by specific areas of the brain.
-- **Wernicke's aphasia**: A condition caused by a stroke affectin the Wernicke's area. Causes fluent speech that is incoherent.
-- **Double dissasciation**: Occurs if damage to one area of the brain causes function A to be absent while function b is present, and vice versa. 
-- **Brain imaging**: Techniques to create a view of brain function.
-- **Functional magnetic resource imaging (fMRI)**: Uses neuron activity bringing in blood into the brain responsing to the magnetism.
-- **Voxel**: Small, cube-shaped areas of the brain responsible for percieving things such as images.
-- **Parahippocampal place area (PPA)**: The part of the brain that is responsible for perception of indoor / outdoor places.
-- **Extrastriate body area (EBA)**: Area of the brain responsible for recongizing people, except for faces.
-- **Multidimensional**: 
+- <span style="color: #FDB515; font-weight: bold">Occipital lobe</span>: The part of the brain where the occipital lobe is.
+- <span style="color: #FDB515; font-weight: bold">Parietal lobe</span>: The part of the brain that is responible for perceptions of touch such as pain and pressure.
+- <span style="color: #FDB515; font-weight: bold">Frontal lobe</span>: The part of the brain responible for recieving signals form all of senses and is responsible for coordinating senses, as well higher cognitive functions such as thinking and problem solving.
+- <span style="color: #FDB515; font-weight: bold">Visual cortex</span>: The part of the brain that is responsible for vision.
+- <span style="color: #FDB515; font-weight: bold">Broca's area</span>: The region of the frontal lobe responsible for the creation of language.
+- <span style="color: #FDB515; font-weight: bold">Sparse coding</span>: Occurs when a particular object is represented by a pattern of firing of firing only a small group of neurons with the majority of neurons remaining silent.
+- <span style="color: #FDB515; font-weight: bold">Localization of function</span>: Specific functions are performed by specific areas of the brain.
+- <span style="color: #FDB515; font-weight: bold">Wernicke's aphasia</span>: A condition caused by a stroke affectin the Wernicke's area. Causes fluent speech that is incoherent.
+- <span style="color: #FDB515; font-weight: bold">Double dissasciation</span>: Occurs if damage to one area of the brain causes function A to be absent while function b is present, and vice versa. 
+- <span style="color: #FDB515; font-weight: bold">Brain imaging</span>: Techniques to create a view of brain function.
+- <span style="color: #FDB515; font-weight: bold">Functional magnetic resource imaging (fMRI)</span>: Uses neuron activity bringing in blood into the brain responsing to the magnetism.
+- <span style="color: #FDB515; font-weight: bold">Voxel</span>: Small, cube-shaped areas of the brain responsible for percieving things such as images.
+- <span style="color: #FDB515; font-weight: bold">Parahippocampal place area (PPA)</span>: The part of the brain that is responsible for perception of indoor / outdoor places.
+- **<span style="color: #FDB515; font-weight: bold">Extrastriate body area (EBA)</span>: Area of the brain responsible for recongizing people, except for faces.
+- <span style="color: #FDB515; font-weight: bold">Multidimensional</span>: 
 
 ### Functions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Cortical equipotentiality</span>: The idea that the brain is operated as an indivisible whole.
