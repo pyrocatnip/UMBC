@@ -45,6 +45,15 @@
 - <span style="color: #FDB515; font-weight: bold">Connectome</span>: Pictures of the brain's pathways obtained by obtained by these new techniques led to the coining of the term.
 - <span style="color: #FDB515; font-weight: bold">Track-weighted imaging (TWI)</span>: Based on detection of how water diffuses along the length of nerve fibers.
 
+<div style="padding: 0.25em">
+	<div style="color: #FDB515; font-weight: bold; text-align: center">Nervous System</div>
+	<div style="color: #FFF; font-weight: bold; text-align: center">
+		<div style="color: #FFF; font-weight: bold; text-align: center; border: 1px solid #A2A9B1; padding: 0.25em; border: 1px solid #A2A9B1; padding: 0.25em">
+			<img src="https://www.researchgate.net/profile/Brahim-Belaoucha/publication/317485174/figure/fig1/AS:614400809529346@1523495976592/The-central-nervous-system-CNS-and-peripheral-nervous-system-PNS-source.png">
+		</div>
+	</div>
+</div>
+
 ### Functions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Cortical equipotentiality</span>: The idea that the brain is operated as an indivisible whole.
 * <span style="color: #FDB515; font-weight: bold">Experience-dependent plasticity</span>: The idea that certain parts of the brain are responsible for specific functions.
@@ -91,3 +100,8 @@
 		</tr>
 	</tbody>
 </table>
+
+# Chapter 3
+### Termonology
+* <span style="color: #FDB515; font-weight: bold">Perception</span>: Experiences resulting from stimulation of the senses.
+* <span style="color: #FDB515; font-weight: bold">Inverse projection problem</span>: The task of determining the object 
