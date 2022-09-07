@@ -32,7 +32,6 @@
 - <span style="color: #FDB515; font-weight: bold">Wernicke's aphasia</span>: A condition caused by a stroke affectin the Wernicke's area. Causes fluent speech that is incoherent.
 - <span style="color: #FDB515; font-weight: bold">Double dissasciation</span>: Occurs if damage to one area of the brain causes function A to be absent while function b is present, and vice versa. 
 - <span style="color: #FDB515; font-weight: bold">Brain imaging</span>: Techniques to create a view of brain function.
-- <span style="color: #FDB515; font-weight: bold">Functional magnetic resource imaging (fMRI)</span>: Uses neuron activity bringing in blood into the brain responsing to the magnetism.
 - <span style="color: #FDB515; font-weight: bold">Voxel</span>: Small, cube-shaped areas of the brain responsible for percieving things such as images.
 - <span style="color: #FDB515; font-weight: bold">Parahippocampal place area (PPA)</span>: The part of the brain that is responsible for perception of indoor / outdoor places.
 - **<span style="color: #FDB515; font-weight: bold">Extrastriate body area (EBA)</span>: Area of the brain responsible for recongizing people, except for faces.
@@ -63,6 +62,7 @@
 - <span style="color: #FDB515; font-weight: bold">Prosopagnosia</span>: The inability to recognize faces.
 
 ### Procedures ###
+* <span style="color: #FDB515; font-weight: bold">Functional magnetic resource imaging (fMRI)</span>: Uses neuron activity bringing in blood into the brain responsing to the magnetism.
 * <span style="color: #FDB515; font-weight: bold">Resting-state fMRI</span>: The fMRI response mesures the person at rest.
 * <span style="color: #FDB515; font-weight: bold">Resting-state functional connectivity</span>: What's being measured to the fMRI.
 
