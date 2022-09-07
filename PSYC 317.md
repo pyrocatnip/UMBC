@@ -12,7 +12,7 @@
 * <span style="color: #FDB515; font-weight: bold">Cognitive Neuroscience</span>: The study of the phsyological basis of cognition.
 - <span style="color: #FDB515; font-weight: bold">Principle of neurorepresentation</span>: States that everything a person experience is based on reprsentations.
 - <span style="color: #FDB515; font-weight: bold">Levels of analysis</span>: Refers to the idea tat the topic can be studied in a number of different ways, with each approach contributing to its own dimension to our understanding.
--  <span style="color: #FDB515; font-weight: bold">Neuropsychology</span>:" The study of people with brain damage.
+-  <span style="color: #FDB515; font-weight: bold">Neuropsychology</span>: The study of people with brain damage.
 
 ### Biological terminology
 #### Parts of the Brain ####
@@ -42,7 +42,9 @@
 - <span style="color: #FDB515; font-weight: bold">Neurotransmitter</span>: A chemical that makes it possible for signals to be transmitted across the synaptic gap to a dendire or to the cell body of another neuron.
 - <span style="color: #FDB515; font-weight: bold">Nerve impulse</span>: Transmitted down the axon. As the impulse passes the recording electrode, the charge inside the axon rises to +40 million volts, compared to the outside.
 - <span style="color: #FDB515; font-weight: bold">Feature detectors</span>: Neurons that respond to specific stimulus features such as orientation, movement, and length
-- <span style="color: #FDB515; font-weight: bold">Multidimensional</span>: The central principle of cognition that our experiences are complex
+- <span style="color: #FDB515; font-weight: bold">Multidimensional</span>: The central principle of cognition that our experiences are complex.
+- <span style="color: #FDB515; font-weight: bold">Connectome</span>: Pictures of the brain's pathways obtained by obtained by these new techniques led to the coining of the term.
+- <span style="color: #FDB515; font-weight: bold">Track-weighted imaging (TWI)</span>: Based on detection of how water diffuses along the length of nerve fibers.
 
 ### Functions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Cortical equipotentiality</span>: The idea that the brain is operated as an indivisible whole.
@@ -59,6 +61,10 @@
 * <span style="color: #FDB515; font-weight: bold">Wernicke's area</span>: The region of the frontal lobe responsible for the comprehension of language.
 - <span style="color: #FDB515; font-weight: bold">Broca's aphasia</span>: A condition caused by a stroke causing a difficulty with speech, slurred and ungrammatical speech.
 - <span style="color: #FDB515; font-weight: bold">Prosopagnosia</span>: The inability to recognize faces.
+
+### Procedures ###
+* <span style="color: #FDB515; font-weight: bold">Resting-state fMRI</span>: The fMRI response mesures the person at rest.
+* <span style="color: #FDB515; font-weight: bold">Resting-state functional connectivity</span>: What's being measured to the fMRI.
 
 <table style="background: #0c0c0c; color: #FFF; font-size: 12.5px; height: 200px; width: 100%; border: 1px solid #A2A9B1; padding: 0.15em">
 	<tbody>
