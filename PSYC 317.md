@@ -70,7 +70,7 @@
 
 ### Functions of the Brain
 * <span style="color: #FDB515; font-weight: bold">Cortical equipotentiality</span>: The idea that the brain is operated as an indivisible whole.
-* <span style="color: #FDB515; font-weight: bold">Experience-dependent plasticity</span>: The idea that certain parts of the brain are responsible for specific functions.
+* <span style="color: #FDB515; font-weight: bold">Localization of function</span>: The idea that certain parts of the brain are responsible for specific functions.
 * <span style="color: #FDB515; font-weight: bold">Fusiform face area (FFA)</span>: The part of the brain that is responsible for recognitizing faces.
 * <span style="color: #FDB515; font-weight: bold">Hierarchical processing</span>: The progression from lower to higher functioning.
 - <span style="color: #FDB515; font-weight: bold">Sensory coding</spam>: How neurons represent various characteristics of the environment.
@@ -118,7 +118,8 @@
 # Chapter 3
 ### Termonology
 * <span style="color: #FDB515; font-weight: bold">Perception</span>: Experiences resulting from stimulation of the senses.
-* <span style="color: #FDB515; font-weight: bold">Inverse projection problem</span>: The task of determining the object 
+* <span style="color: #FDB515; font-weight: bold">Inverse projection problem</span>: The task of determining the object
+* <span style="color: #FDB515; font-weight: bold">Viewpoint invariance</span>:
 
 ## Footnotes
 [^1]: Temporal lobe. (2022, July 24). In _Wikipedia_. https://en.wikipedia.org/wiki/Temporal_lobe 
